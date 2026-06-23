@@ -1,6 +1,6 @@
 # IT Service Desk Analytics Dashboard
 
-Project Overview
+## Project Overview
 
 This project analyzes IT Service Desk operations using Python, SQL, and Power BI.
 
@@ -8,33 +8,48 @@ The dataset simulates real-world ITSM ticket records, including ticket status, p
 
 The objective was to identify service trends, evaluate department performance, monitor SLA compliance, and generate actionable insights through interactive dashboards.
 
-Tools Used
+## Tools Used
 
-Python
-Pandas
-SQL
-Power BI
-DAX
+- Python
+- Pandas
+- SQL
+- Power BI
+- DAX
 
-Key Analysis Areas
+## Key Analysis Areas
 
-Ticket Volume Analysis
-Department Performance
-SLA Compliance Monitoring
-Resolution Time Analysis
-Priority-Based Service Evaluation
+- Ticket Volume Analysis
+- Department Performance
+- SLA Compliance Monitoring
+- Resolution Time Analysis
+- Priority-Based Service Evaluation
 
-Key Findings
+## Key Findings
 
-IT generated the highest ticket volume across all departments.
-Software-related issues represented the largest ticket category.
-Overall SLA compliance reached 74.35%.
-Critical tickets were resolved significantly faster than low-priority tickets.
-Operations and IT handled the highest service workloads.
+- IT generated the highest ticket volume across all departments.
+- Software-related issues represented the largest ticket category.
+- Overall SLA compliance reached 74.35%.
+- Critical tickets were resolved significantly faster than low-priority tickets.
+- Operations and IT handled the highest service workloads.
 
-Dashboard Pages
+## Dashboard Preview
 
-Executive Overview
-Ticket Analysis
-Department Performance
-SLA & Resolution Analysis
+### Executive Overview
+
+![Executive Overview](Executive_Overview.png)
+
+### Ticket Analysis
+
+![Ticket Analysis](Ticket_Analysis.png)
+
+### Department Performance
+
+![Department Performance](Department_performance.png)
+
+### SLA & Resolution Analysis
+
+![SLA Analysis](SLA_Analysis.png)
+
+### Key Insights
+
+![Key Insights](Key_Insights.png)
